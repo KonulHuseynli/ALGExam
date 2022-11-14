@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(/assets/img\ cloud.png);
+ color: white;
+}
+ul{
+
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left:1040px ;
+    margin-top: -60px;
+    font-weight: bold;
+}
+li{
+padding: 10px;
+}
+p{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 30px;
+}
+h2{
+    font-weight: bold;
+    font-size: 30px;
+}
